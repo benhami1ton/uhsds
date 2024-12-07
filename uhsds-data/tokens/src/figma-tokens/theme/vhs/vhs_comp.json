@@ -1,0 +1,142 @@
+{
+  "c": {
+    "btn": {
+      "color": {
+        "primary": {
+          "bkg": {
+            "default": {
+              "parent": "Brand/vhs",
+              "description": "",
+              "$type": "color",
+              "$value": "{theme.color.primary.default}"
+            },
+            "hover": {
+              "parent": "Brand/vhs",
+              "description": "",
+              "$type": "color",
+              "$value": "{theme.color.primary.dark}"
+            },
+            "pressed": {
+              "parent": "Brand/vhs",
+              "description": "",
+              "$type": "color",
+              "$value": "{theme.color.primary.darker}"
+            }
+          }
+        },
+        "subtle": {
+          "bkg": {
+            "default": {
+              "parent": "Brand/vhs",
+              "$type": "color",
+              "$value": "{theme.color.primary.lightest}"
+            },
+            "hover": {
+              "parent": "Brand/vhs",
+              "description": "",
+              "$type": "color",
+              "$value": "{theme.color.primary.light}"
+            },
+            "pressed": {
+              "parent": "Brand/vhs",
+              "description": "",
+              "$type": "color",
+              "$value": "{theme.color.primary.default}"
+            }
+          }
+        },
+        "text": {
+          "onDark": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "color",
+            "$value": "{theme.color.base.lightest}"
+          },
+          "onLight": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "color",
+            "$value": "{theme.color.primary.darker}"
+          }
+        }
+      },
+      "borderRadius": {
+        "sm": {
+          "parent": "Brand/vhs",
+          "description": "",
+          "$type": "borderRadius",
+          "$value": "{core.border.radius.sm}"
+        },
+        "md": {
+          "parent": "Brand/vhs",
+          "description": "",
+          "$type": "borderRadius",
+          "$value": "{core.border.radius.md}"
+        },
+        "lg": {
+          "parent": "Brand/vhs",
+          "description": "",
+          "$type": "borderRadius",
+          "$value": "{core.border.radius.lg}"
+        }
+      },
+      "spacing": {
+        "px": {
+          "sm": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "spacing",
+            "$value": "{core.spacing.300}"
+          },
+          "md": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "spacing",
+            "$value": "{core.spacing.400}"
+          },
+          "lg": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "spacing",
+            "$value": "{core.spacing.500}"
+          }
+        },
+        "py": {
+          "sm": {
+            "parent": "Brand/vhs",
+            "$type": "spacing",
+            "$value": "{core.spacing.200}"
+          },
+          "md": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "spacing",
+            "$value": "{core.spacing.300}"
+          },
+          "lg": {
+            "parent": "Brand/vhs",
+            "description": "",
+            "$type": "spacing",
+            "$value": "{core.spacing.400}"
+          }
+        }
+      }
+    },
+    "breadcrumb": {
+      "color": {
+        "previous": {
+          "parent": "Brand/vhs",
+          "description": "",
+          "$type": "color",
+          "$value": "{theme.color.text.link}"
+        },
+        "current": {
+          "parent": "Brand/vhs",
+          "description": "",
+          "$type": "color",
+          "$value": "{theme.color.text.body.onLight}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "c": {
+    "hero": {
+      "content": {
+        "px": {
+          "$type": "spacing",
+          "$value": "{core.spacing.600}"
+        },
+        "py": {
+          "$type": "spacing",
+          "$value": "{core.spacing.700}"
+        }
+      }
+    },
+    "button": {
+      "px": {
+        "$type": "spacing",
+        "$value": "{core.spacing.400}"
+      },
+      "py": {
+        "$type": "spacing",
+        "$value": "{core.spacing.300}"
+      },
+      "gap": {
+        "$type": "spacing",
+        "$value": "{core.spacing.200}"
+      }
+    }
+  }
+}

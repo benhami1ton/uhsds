@@ -1,0 +1,24 @@
+{
+  "button": {
+    "color": {
+      "background": {
+        "$type": "color",
+        "$value": "{theme.color.primary.dark}"
+      }
+    }
+  },
+  "c": {
+    "button": {
+      "borderRadius": {
+        "sharp": {
+          "$type": "borderRadius",
+          "$value": "{core.border.radius.xs}"
+        },
+        "round": {
+          "$type": "borderRadius",
+          "$value": "{core.border.radius.lg}"
+        }
+      }
+    }
+  }
+}

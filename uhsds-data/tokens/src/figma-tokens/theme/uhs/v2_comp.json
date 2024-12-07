@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "img": {
+      "border-color": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{theme.color.accent-warm.default}"
+      }
+    }
+  },
+  "avatar": {
+    "img": {
+      "border-color": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{theme.color.accent-warm.default}"
+      }
+    }
+  }
+}

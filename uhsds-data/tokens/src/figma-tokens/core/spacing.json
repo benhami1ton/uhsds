@@ -1,0 +1,50 @@
+{
+  "core": {
+    "spacing": {
+      "50": {
+        "$type": "spacing",
+        "$value": "2"
+      },
+      "100": {
+        "$type": "spacing",
+        "$value": "4"
+      },
+      "200": {
+        "$type": "spacing",
+        "$value": "8"
+      },
+      "300": {
+        "$type": "spacing",
+        "$value": "16"
+      },
+      "400": {
+        "$type": "spacing",
+        "$value": "24"
+      },
+      "500": {
+        "$type": "spacing",
+        "$value": "32"
+      },
+      "600": {
+        "$type": "spacing",
+        "$value": "48"
+      },
+      "700": {
+        "$type": "spacing",
+        "$value": "64"
+      },
+      "800": {
+        "$type": "spacing",
+        "$value": "96"
+      },
+      "900": {
+        "$type": "spacing",
+        "$value": "128"
+      },
+      "none": {
+        "$type": "spacing",
+        "$value": "0"
+      }
+    }
+  }
+}

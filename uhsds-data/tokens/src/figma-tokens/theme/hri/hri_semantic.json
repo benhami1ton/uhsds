@@ -1,0 +1,303 @@
+{
+  "theme": {
+    "color": {
+      "base": {
+        "lightest": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.01}"
+        },
+        "lighter": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.20}"
+        },
+        "light": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.30}"
+        },
+        "default": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.50}"
+        },
+        "dark": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.70}"
+        },
+        "darker": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.80}"
+        },
+        "darkest": {
+          "description": "",
+          "$type": "color",
+          "$value": "{core.color.gray-warm.90}"
+        }
+      },
+      "primary": {
+        "lightest": {
+          "$type": "color",
+          "$value": "{core.color.cyan.10v}"
+        },
+        "lighter": {
+          "$type": "color",
+          "$value": "{core.color.cyan.20v}"
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{core.color.cyan.30v}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{core.color.cyan.50v}"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "{core.color.blue-cool.70v}"
+        },
+        "darker": {
+          "$type": "color",
+          "$value": "{core.color.blue-cool.80v}"
+        },
+        "darkest": {
+          "$type": "color",
+          "$value": "{core.color.blue-cool.90}"
+        }
+      },
+      "secondary": {
+        "lightest": {
+          "$type": "color",
+          "$value": ""
+        },
+        "lighter": {
+          "$type": "color",
+          "$value": "{core.color.yellow.10}"
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{core.color.yellow.10v}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{core.color.yellow.20v}"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "{core.color.yellow.40v}"
+        },
+        "darker": {
+          "$type": "color",
+          "$value": "{core.color.yellow.60v}"
+        },
+        "darkest": {
+          "$type": "color",
+          "$value": "{core.color.yellow.80v}"
+        }
+      },
+      "accent-cool": {
+        "lightest": {
+          "$type": "color",
+          "$value": ""
+        },
+        "lighter": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.10}"
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.20v}"
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.40v}"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.60}"
+        },
+        "darker": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.80v}"
+        },
+        "darkest": {
+          "$type": "color",
+          "$value": "{core.color.blue-warm.90}"
+        }
+      },
+      "ui": {
+        "disabled": {
+          "lighter": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gray-cool.10}"
+          },
+          "light": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gray-cool.20}"
+          },
+          "default": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gray-cool.30}"
+          },
+          "dark": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gray-cool.50}"
+          },
+          "darker": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gray-cool.60}"
+          },
+          "darkest": {
+            "description": "",
+            "$type": "color",
+            "$value": ""
+          }
+        },
+        "error": {
+          "lighter": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.red.10}"
+          },
+          "light": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.red-warm.30v}"
+          },
+          "default": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.red-warm.50v}"
+          },
+          "dark": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.red-warm.60v}"
+          },
+          "darker": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.red-warm.70v}"
+          },
+          "darkest": {
+            "description": "",
+            "$type": "color",
+            "$value": ""
+          }
+        },
+        "info": {
+          "lighter": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.cyan.05}"
+          },
+          "light": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.cyan.20}"
+          },
+          "default": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.cyan.20v}"
+          },
+          "dark": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.cyan.40}"
+          },
+          "darker": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.cyan.60}"
+          },
+          "darkest": {
+            "description": "",
+            "$type": "color",
+            "$value": ""
+          }
+        },
+        "success": {
+          "lighter": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.green-cool.05}"
+          },
+          "light": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.green-cool.20v}"
+          },
+          "default": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.green-cool.40v}"
+          },
+          "dark": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.green-cool.50}"
+          },
+          "darker": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.green-cool.60}"
+          },
+          "darkest": {
+            "description": "",
+            "$type": "color",
+            "$value": ""
+          }
+        },
+        "warning": {
+          "lighter": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.yellow.05}"
+          },
+          "light": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.yellow.10}"
+          },
+          "default": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gold.20v}"
+          },
+          "dark": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gold.30v}"
+          },
+          "darker": {
+            "description": "",
+            "$type": "color",
+            "$value": "{core.color.gold.50v}"
+          },
+          "darkest": {
+            "description": "",
+            "$type": "color",
+            "$value": ""
+          }
+        }
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{core.color.white-trans.100}"
+      },
+      "black": {
+        "$type": "color",
+        "$value": "{core.color.black-trans.100}"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "core": {
+    "breakpoint": {
+      "xs": {
+        "$type": "sizing",
+        "$value": "320"
+      },
+      "sm": {
+        "$type": "sizing",
+        "$value": "480"
+      },
+      "smd": {
+        "$type": "sizing",
+        "$value": "768"
+      },
+      "md": {
+        "$type": "sizing",
+        "$value": "992"
+      },
+      "lg": {
+        "$type": "sizing",
+        "$value": "1180"
+      },
+      "xl": {
+        "$type": "sizing",
+        "$value": "1440"
+      },
+      "2xl": {
+        "$type": "sizing",
+        "$value": "1920"
+      }
+    }
+  }
+}

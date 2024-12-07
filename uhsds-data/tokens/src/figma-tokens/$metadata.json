@@ -1,0 +1,27 @@
+{
+  "tokenSetOrder": [
+    "theme/hri/hri_semantic",
+    "theme/frn/frn_semantic",
+    "theme/fh/fh_semantic",
+    "theme/ah/ah_semantic",
+    "theme/ah/ah_component",
+    "theme/ghh/ghh_semantic",
+    "theme/beau/beau_semantic",
+    "theme/sgr/sgr_semantic",
+    "theme/piw/piw_semantic",
+    "theme/uhs/uhs_sem1",
+    "theme/uhs/uhs_sem2",
+    "theme/uhs/v2_comp",
+    "theme/trm/trm_sem",
+    "theme/base/base_sem",
+    "theme/base/base_comp",
+    "theme/vhs/vhs_sem",
+    "theme/vhs/vhs_comp",
+    "core/color",
+    "core/spacing",
+    "core/text",
+    "core/elevation",
+    "core/border",
+    "core/breakpoint"
+  ]
+}

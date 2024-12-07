@@ -1,0 +1,322 @@
+{
+  "core": {
+    "elevation": {
+      "12": {
+        "umbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "7",
+            "spread": "-4",
+            "blur": "8",
+            "color": "$core.color.black-trans.10"
+          }
+        },
+        "penumbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "12",
+            "spread": "2",
+            "color": "$core.color.black-trans.10",
+            "blur": "17"
+          }
+        },
+        "ambient": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "5",
+            "spread": "4",
+            "color": "$core.color.black-trans.20",
+            "blur": "22"
+          }
+        },
+        "full": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "7",
+              "blur": "8",
+              "spread": "-4",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "12",
+              "blur": "17",
+              "spread": "2",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "5",
+              "blur": "22",
+              "spread": "4",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            }
+          ]
+        }
+      },
+      "24": {
+        "umbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "11",
+            "spread": "-7",
+            "blur": "15",
+            "color": "$core.color.black-trans.10"
+          }
+        },
+        "penumbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "24",
+            "spread": "3",
+            "color": "$core.color.black-trans.10",
+            "blur": "38"
+          }
+        },
+        "full": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "11",
+              "blur": "15",
+              "spread": "-7",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "24",
+              "blur": "38",
+              "spread": "3",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "9",
+              "blur": "46",
+              "spread": "8",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            }
+          ]
+        },
+        "ambient": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "9",
+            "spread": "8",
+            "color": "$core.color.black-trans.20",
+            "blur": "46"
+          }
+        }
+      },
+      "00": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "#00000000",
+          "type": "dropShadow"
+        }
+      },
+      "02": {
+        "umbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "3",
+            "spread": "-2",
+            "blur": "1",
+            "color": "$core.color.black-trans.20"
+          }
+        },
+        "penumbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "2",
+            "spread": "0",
+            "color": "$core.color.black-trans.10",
+            "blur": "2"
+          }
+        },
+        "ambient": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "1",
+            "spread": "0",
+            "color": "$core.color.black-trans.10",
+            "blur": "5"
+          }
+        },
+        "full": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "-2",
+              "color": "{core.color.black-trans.20}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "2",
+              "blur": "2",
+              "spread": "0",
+              "color": "{core.color.black-trans.20}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "3",
+              "spread": "0",
+              "color": "{core.color.black-trans.20}",
+              "type": "dropShadow"
+            }
+          ]
+        }
+      },
+      "04": {
+        "umbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "2",
+            "spread": "-1",
+            "blur": "4",
+            "color": "$core.color.black-trans.20"
+          }
+        },
+        "penumbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "4",
+            "spread": "0",
+            "color": "$core.color.black-trans.10",
+            "blur": "5"
+          }
+        },
+        "ambient": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "1",
+            "spread": "0",
+            "color": "$core.color.black-trans.10",
+            "blur": "10"
+          }
+        },
+        "full": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "2",
+              "blur": "4",
+              "spread": "-1",
+              "color": "{core.color.black-trans.20}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "5",
+              "spread": "0",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "10",
+              "spread": "0",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            }
+          ]
+        }
+      },
+      "08": {
+        "umbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "5",
+            "spread": "-3",
+            "blur": "5",
+            "color": "$core.color.black-trans.20"
+          }
+        },
+        "penumbra": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "8",
+            "spread": "1",
+            "color": "$core.color.black-trans.10",
+            "blur": "10"
+          }
+        },
+        "ambient": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "3",
+            "blur": "14",
+            "spread": "2",
+            "color": "$core.color.black-trans.10"
+          }
+        },
+        "full": {
+          "$type": "boxShadow",
+          "$value": [
+            {
+              "x": "0",
+              "y": "5",
+              "blur": "5",
+              "spread": "-3",
+              "color": "{core.color.black-trans.20}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "8",
+              "blur": "10",
+              "spread": "1",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "3",
+              "blur": "14",
+              "spread": "2",
+              "color": "{core.color.black-trans.10}",
+              "type": "dropShadow"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

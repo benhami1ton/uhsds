@@ -1,0 +1,1 @@
+{"name":"uhsds","private":true,"workspaces":["apps/*","apps/uhsds-tools/packages/*"],"scripts":{"build":"turbo run build","dev":"turbo run dev","lint":"turbo run lint","test":"turbo run test","clean":"turbo run clean"}}
